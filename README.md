@@ -13,7 +13,7 @@ Implementation of an informational landing about agency.
 >JavaScript
 
 
-[DEMO LINK](https://vitmixg.github.io/DIA/)
+[DEMO_LINK](https://vitmixg.github.io/Dia/)
 
 
 [FIGMA_LINK](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
